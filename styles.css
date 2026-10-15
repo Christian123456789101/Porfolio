@@ -10,11 +10,11 @@
             --surface-2: #1b2530;
             --border: #222f3d;
             --accent: #4a6fa5;
-            --mint: #cce8dc;
+            --mint: #74c7a4;
             --text: #ffffff;
             --text-dark: #111;
             --muted: #9aa8b8;
-            --whatsapp: #25d366;
+            --whatsapp: #151c24;
             --radius: 12px;
             --ease: cubic-bezier(.2, .7, .2, 1);
         }
@@ -109,7 +109,7 @@
             font-size: .85rem;
             text-transform: uppercase;
             letter-spacing: 3px;
-            color: #2e5e4a;
+            color: #151c24;
             margin-bottom: 1rem;
             font-weight: 600;
         }
